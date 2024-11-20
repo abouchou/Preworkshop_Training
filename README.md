@@ -1,6 +1,3 @@
----
-
-```markdown
 # Exercice Pratique : QC, Mapping et Variant Calling avec Conda
 
 ## Objectif
@@ -140,7 +137,3 @@ L’objectif de cet exercice est de vous permettre d’appliquer les concepts ap
   1. `multiqc_report.html` pour le QC.
   2. `SRR2589044_sorted.bam` pour le mapping.
   3. `SRR2589044_filtered.vcf` pour l’appel de variantes.
-```
-
----
-
