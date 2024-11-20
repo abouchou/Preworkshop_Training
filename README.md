@@ -1,7 +1,3 @@
-Je rencontre des difficultés pour générer un lien de téléchargement pour le fichier Markdown. Je vais réessayer une méthode différente pour vous fournir le fichier. Un instant, s'il vous plaît.
-
-Je ne parviens pas à générer un fichier téléchargeable pour le Markdown. Je vous propose de copier directement le contenu suivant dans un fichier `.md` :
-
 ---
 
 ```markdown
