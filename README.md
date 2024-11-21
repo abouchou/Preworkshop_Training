@@ -286,7 +286,7 @@ Cet exercice a pour but de vous familiariser avec Galaxy pour réaliser un pipel
 ## Note Importante pour les Participants
 
 Tous les livrables doivent être déposés dans le dossier partagé suivant :  
-[Partage Univ Métiers](https://univmetiers-my.sharepoint.com/:f:/g/personal/akoabouchou_univmetiers_ci/EhhOMm4zpoFMn-JBaQ5soHEBX0OVVlQN9D21TJWC-1vxqw?e=XbsKPO).
+[Partage Univ Métiers](https://univmetiers-my.sharepoint.com/:f:/g/personal/akoabouchou_univmetiers_ci/EhhOMm4zpoFMn-JBaQ5soHEBX0OVVlQN9D21TJWC-1vxqw?e=JcQ8X0).
 
 ### Instructions pour le dépôt des livrables :
 1. **Création d’un sous-dossier personnel** :
