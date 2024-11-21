@@ -283,3 +283,19 @@ Cet exercice a pour but de vous familiariser avec Galaxy pour réaliser un pipel
    - Fichier `.ga` exporté.
 5. **Réponses aux Questions**.
 
+## Note Importante pour les Participants
+
+Tous les livrables doivent être déposés dans le dossier partagé suivant :  
+[Partage Univ Métiers](https://univmetiers-my.sharepoint.com/:f:/g/personal/akoabouchou_univmetiers_ci/EhhOMm4zpoFMn-JBaQ5soHEBX0OVVlQN9D21TJWC-1vxqw?e=XbsKPO).
+
+### Instructions pour le dépôt des livrables :
+1. **Création d’un sous-dossier personnel** :
+   - Chaque participant doit créer un sous-dossier avec le format suivant :  
+     `nom_prenom_pays`  
+     *Exemple : ako_christian_cotedivoire*
+
+2. **Organisation des livrables** :
+   - Pour chaque pratique, créez un sous-dossier nommé `pratique_X` :
+     - `pratique_1` pour le premier exercice pratique.
+     - `pratique_2` pour le deuxième exercice pratique.
+   - Tous vos livrables doivent être placés dans le sous-dossier correspondant.
